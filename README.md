@@ -6,3 +6,4 @@ A real person stickers generator implements based Deepfake
 - starGAN
 - flutter
 - flask
+- gevent
